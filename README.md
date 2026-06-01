@@ -1,2 +1,1 @@
-# nome
-Essa página é para o concurso
+esse é o redmi
